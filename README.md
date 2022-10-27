@@ -1,4 +1,4 @@
-# Boilerplate Card by [@iantrich](https://www.github.com/iantrich)
+# Mealplanner Card by [@DurgNomis-drol](https://www.github.com/durgnomis-drol)
 
 A community driven boilerplate of best practices for Home Assistant Lovelace custom cards
 
